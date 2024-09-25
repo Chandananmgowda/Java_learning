@@ -1,6 +1,6 @@
 public class casting {
     public static void main(String[] args) {
-        int a=12;
+        int a=236;
         byte b=(byte)a;
     System.out.println(a);
     byte r =127;
