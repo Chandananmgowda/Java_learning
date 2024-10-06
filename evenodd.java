@@ -6,6 +6,7 @@ public class evenodd{
         System.out.println("Please enter the numbere");
         Scanner scan = new Scanner(System.in);
         number=scan.nextInt();
+        scan.close();
 
         remainder=number % 2;
 
